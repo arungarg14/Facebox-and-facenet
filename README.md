@@ -8,4 +8,5 @@ It consist of two parts:
 
 Procedure to Implememt:
 
-The main file is task2code 
+The main file is task2code.ipynb
+Run it in the jupyter noebook.
