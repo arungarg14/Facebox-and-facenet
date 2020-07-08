@@ -1,5 +1,8 @@
 # Facebox-and-facenet
 
+AIM:
+To detect face recognition using Tensorflow. 
+
 It consist of two parts:
 
 1. Faceboxes - Implemented faceboxes using Tensorflow. 
